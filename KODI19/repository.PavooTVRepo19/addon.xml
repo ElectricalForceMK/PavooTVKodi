@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.PavooTVRepo19" name="[COLOR mediumblue][B]PavooTV[/B][/COLOR]Repository" version="1.0.5" provider-name="ElectricalForce">
+	<extension point="xbmc.addon.repository" name="BoongoTV Repository">
+		<info compressed="false">https://raw.githubusercontent.com/ElectricalForceMK/PavooTVKodi/master/KODI19/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/ElectricalForceMK/PavooTVKodi/master/KODI19/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/ElectricalForceMK/PavooTVKodi/master/KODI19/</datadir>
+		<dir>
+    <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+    </dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>PavooTV Repository</summary>
+		<description>PavooTV</description>
+		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+     </assets>
+	</extension>
+</addon>
